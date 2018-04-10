@@ -33,5 +33,24 @@ Costs less than most toys, and an entire class set for under the price of a lapt
 
 Many toys are more expenisve than this tiny omputer. Its main motive was to help the poor catch up while learning computer concepts at the same time. If you want to make your own personal projects, you can easily do so by buying a BBC Microbit and downloading an editor to start.
 
+### More Imfo
+
+If you want more info, you can go to the BBC Microbit website -
+
+http://microbit.org/
+
+If you are looking for projects, you can search on the BBC Microbit website or you can go to the following links -
+
+https://github.com/PlatypusProject/MillParkLibraryMakersClub
+http://microbit.org/ideas/
+
+If you would like to read news about the BBC Microbit, you can go here -
+
+http://microbit.org/ideas/
+
+One interesting article is this -
+
+http://microbit.org/en/2018-02-20-national-computing-museum-race/
+
 *'In my classroom they were so happy and excited to ue the mirco:bit. It is a perfect solution for letting the student learn in an intuitive way'*
 ----------------------------------------------------------------------------------------------------------------------------------------
