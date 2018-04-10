@@ -33,5 +33,5 @@ Costs less than most toys, and an entire class set for under the price of a lapt
 
 Many toys are more expenisve than this tiny omputer. Its main motive was to help the poor catch up while learning computer concepts at the same time. If you want to make your own personal projects, you can easily do so by buying a BBC Microbit and downloading an editor to start.
 
-*'In my classroom they were so happy and exited to ue the mirco:bit. It is a perfect solution for letting the student learn in an intuitive way'*
+*'In my classroom they were so happy and excited to ue the mirco:bit. It is a perfect solution for letting the student learn in an intuitive way'*
 ----------------------------------------------------------------------------------------------------------------------------------------
