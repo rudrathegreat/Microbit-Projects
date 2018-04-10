@@ -32,15 +32,21 @@ while True:
 ### Design and Features
 
 > Interactive Display
+>
 > Educational for Everyone
+>
 > System cannot be damaged
+>
 > Can Easily Be Modified
 
 ### Techonlogies Used
 
 > LED's
+>
 > Raspberry Pi, Mu Editor
+>
 > BBC Microbit, Motor Driver Board
+>
 > And more
 
 ### More Info
