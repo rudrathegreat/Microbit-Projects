@@ -20,6 +20,15 @@ This project aims to give poor families a chance to interact with small, afforda
 >
 > etc.
 
+
+### Technologies Used
+
+> BBC Micro:bit
+>
+> Accelerometer Chip
+>
+> Raspberry Pi, Mu Editor
+
 ### The Code Explained
 
 You now define a class with several methods in it. Many big programs and programmers use this concept and they tend to call it Object Oriented Programming or OOP for short -
