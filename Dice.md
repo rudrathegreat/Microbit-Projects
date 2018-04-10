@@ -1,4 +1,4 @@
-# BBC Microbit Projects
+# BBC Micro:bit Projects
 ## The Dice Program
 ### Abstract
 
