@@ -32,7 +32,7 @@ from microbit import *
 display.show(Image.HAPPY)
 
 ```
-And many more surpries.
+And many more surprises.
 
 One editor by the name of Mu supports Micropython and can easily be downloaded onto any system.
 
