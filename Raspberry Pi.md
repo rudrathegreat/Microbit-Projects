@@ -8,7 +8,7 @@ The Raspberry Pi is a small, handheld computer you can use to play games, code o
 
 The Raspberry Pi has two main operating systems and you choose which one you want when you **first** start the Raspberry Pi. There is Debian and Raspbian. I would recommend Raspbian becasue it is recommended by all Linux lovers and people who use a Rapsberry Pi.
 
-The Raspberry Pi is designed for primary school kids all the way up to adult ages. It has a broad range and anybody can use. All you need to be famiiar about is the Linux system and terminal. You can make some sweet scripts using the terminal so you can check out this link below about simple terminal scripting -
+The Raspberry Pi is designed for primary school kids all the way up to adult ages. It has a broad range and anybody can use it. All you need to be famiiar about is the Linux system and terminal. You can make some sweet scripts using the terminal so you can check out this link below about simple terminal scripting -
 
 https://github.com/rudrathegreat/Simple-Shell-Scripting
 
