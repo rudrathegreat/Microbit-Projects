@@ -25,3 +25,11 @@ ASCII Communication - Another way of communicating with others using microcontro
 ### Aim
 
 We are always looking for more engaging pathways for learning. "The Martian" movie is very captivating to audiences. Using "The Martian" as a theme makes coding even more interesting. It really feels like we are part of the engineering team contributing to the next mission to Mars.
+
+### More Info
+
+If you want more info about this project, you can go here and here to learn more ('here' means link and the link is below) -
+
+https://github.com/PlatypusProject/MillParkLibraryMakersClub
+
+https://github.com/PlatypusProject/HackingTheMartianMovie
