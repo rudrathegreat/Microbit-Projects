@@ -42,3 +42,10 @@ while True:
 > Raspberry Pi, Mu Editor
 > BBC Microbit, Motor Driver Board
 > And more
+
+### More Info
+
+You can go to these websites, shown below to get more info on this project -
+
+https://github.com/PlatypusProject/MillParkLibraryMakersClub
+https://github.com/PlatypusProject/DuckSignProject
