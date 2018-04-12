@@ -43,5 +43,7 @@ One editor by the name of Mu supports Micropython and can easily be downloaded o
 If you want more info or if you want to download these two 'things' which we have been talking about (Micropython and Mu), then you can go to these websites -
 
 https://micropython.org/
+
 http://microbit-micropython.readthedocs.io/en/latest/
+
 https://codewith.mu/
