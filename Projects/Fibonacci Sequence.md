@@ -2,13 +2,19 @@
 ## The Fibonacci Sequence
 ### Abstract
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 The Fibonacci Sequence is one of the most complicated sequences and it is based to do with some simple logic and that is -
 
 Add the two previous numbers to get the next number.
 
 But this starts to get difficult and maybe tedious when you start to add big numbers... but what about **COMPUTERS?** There are programs out there to show the fibonacci sequence, and I am also going to show you as well.
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ### Design and Features
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 > Display the Time Taken to Find the Numbers
 >
@@ -18,7 +24,11 @@ But this starts to get difficult and maybe tedious when you start to add big num
 >
 > etc.
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ### Code Explained
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 We need to define a method for finding the sequence -
 
@@ -78,8 +88,12 @@ print('run time: ' + str(time) + 's')
 And that's it!
 ----------------------------------------------------------------------------------------------------------------------------------------
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ### Technologies Used
 
 > Raspberry Pi, Mu Editor, Python IDLE
 >
 > BBC Microbit
+
+----------------------------------------------------------------------------------------------------------------------------------------
