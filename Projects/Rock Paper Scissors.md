@@ -2,13 +2,19 @@
 ## Rock Paper Scissors
 ### Abstract
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 Do you want a game right at your fingertips? This simple yet effecitive Rock Paper Scissors program should do the trick! Using the BBC Microbit and the Raspberry Pi, you can code your BBC Microbit to play an endless number of games with you, and when you want to stop, you can do so just by clicking a button.
 
 This program has been programmed using an implementation of Python known as Micropython, which allows you to program Python-style and flashing it onto a small microcontroller. This program has also been edited on the 'Mu' Micropython editor which can be used by anyone and everyone.
 
 This project aims to give poor families a chance to interact with small, affordable devices on which they can program their own games. This may also help others if they are trying to do the same project.
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ### Design and Features
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 > Uses Accelerometer Chip
 >
@@ -20,8 +26,11 @@ This project aims to give poor families a chance to interact with small, afforda
 >
 > etc.
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
 ### Technologies Used
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 > BBC Micro:bit
 >
@@ -29,7 +38,11 @@ This project aims to give poor families a chance to interact with small, afforda
 >
 > Raspberry Pi, Mu Editor
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ### The Code Explained
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 You now define a class with several methods in it. Many big programs and programmers use this concept and they tend to call it Object Oriented Programming or OOP for short -
 
@@ -300,4 +313,6 @@ RPS.game()
 ```
 
 And that's it!
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ----------------------------------------------------------------------------------------------------------------------------------------
