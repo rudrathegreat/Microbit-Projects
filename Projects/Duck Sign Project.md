@@ -2,6 +2,8 @@
 ## The Duck Sign Project
 ### Abstract
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 The Duck Sign Project plans to prevent people from feeding ducks due to overpopulation and to instead make people fascinated by the different species of ducks. The first part of the project is to make signs showing the population of ducks at the particular location.
 
 If it shows a red LED on, then that means that there is too many ducks. If it shows a yellow LED on, that means that there are still a lot of ducks but not that many. If a green light is being shown then that means that the number of ducks are nearly plausible and when a blue light is being shown, then that means that the number of ducks are now plausible enough. We don't want them to go extinct!
@@ -29,7 +31,11 @@ while True:
   
 ```
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ### Design and Features
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 > Interactive Display
 >
@@ -39,7 +45,11 @@ while True:
 >
 > Can Easily Be Modified
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ### Techonlogies Used
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 > LED's
 >
@@ -49,9 +59,15 @@ while True:
 >
 > And more
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ### More Info
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 You can go to these websites, shown below to get more info on this project -
 
 https://github.com/PlatypusProject/MillParkLibraryMakersClub
 https://github.com/PlatypusProject/DuckSignProject
+
+----------------------------------------------------------------------------------------------------------------------------------------
