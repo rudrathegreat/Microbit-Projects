@@ -34,8 +34,6 @@ The BBC Microbit is super easy and anyone can start using it. Once you start usi
 Empowering students - 90% of students say it helped show that anyone can code!
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-----------------------------------------------------------------------------------------------------------------------------------------
-
 Many students agree to the line above that it has helped show the fundamentals of computer programming. The future is in the students hands and the world will become more technology-dominant. There are more and more computers being manufactured by companies and if we don't keep up, there may be problems.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
