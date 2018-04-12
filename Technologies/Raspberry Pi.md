@@ -1,6 +1,8 @@
 # BBC Micro:bit Projects
 ## The Raspberry Pi Itself
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 A small and affordable computer that you can use to learn programming.
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -16,9 +18,13 @@ What's more amzing is that the Raspberry Pi has a huge amount of storage.
 
 You can download the Mu Editor so that you can program the BBC Microbit and other microcontrollers which understand Micropython.
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ### More Info
 
 If you want more info, you can go to the Rasapberry  Pi website or thee projects website (if you are looking for projects) -
 
 https://www.raspberrypi.org/
 https://projects.raspberrypi.org/en/
+
+----------------------------------------------------------------------------------------------------------------------------------------
