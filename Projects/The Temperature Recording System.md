@@ -2,6 +2,8 @@
 ## The Temperature Recording System
 ### Abstract
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 The Temperature Recording System
 
 Ever want a system where you can know the temperature and that the predictions are s accurate as they can be? Introducing, the temperature recording system.
@@ -11,6 +13,8 @@ The system allows you to find out the temperature at a particular location. It w
 This may be useful for forecasters if they want to find patterns in the temperature so they can use the system and the visual display on Scratch to see those patterns very easily.
 
 Read the other documentations to find out more about the system.
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 ### Design and Features
 
@@ -22,7 +26,11 @@ Read the other documentations to find out more about the system.
 >
 > Long Lasting
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ### Technologies Used
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 > BBC Micro:bit, Motor Driver Board
 >
@@ -32,7 +40,11 @@ Read the other documentations to find out more about the system.
 >
 > 4 Lithium Ion Batteries
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ### More Info
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 The temperature sensor is behind all of the sensing. Attached to a BBC Microbit to transmit the data and for power, the temperature sensor just sits there and senses the temperature.
 
@@ -83,3 +95,5 @@ while True:
 ```
 
 This data is then passed into this program aka intepreter to then be processed onto Scratch. It goes through a program which puts this data in several variables to then be passed onto Scratch.
+
+----------------------------------------------------------------------------------------------------------------------------------------
